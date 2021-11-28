@@ -1,6 +1,6 @@
-![Design and Development](https://github.com/IkyOgiwara/IkyOgiwara/blob/master/Iky.jpg)
+![Design and Development](https://github.com/IkyOgiwara/IkyOgiwara/blob/master/iky.jpg)
 
-# Adrian Twarog
+# Rizky Adiasa
 I'm Iky Ads from Indonesia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
 ## Skills and Experience
